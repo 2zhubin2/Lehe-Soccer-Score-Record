@@ -1,2 +1,3 @@
 # Lehe-Soccer-Score-Record
 “Lehe Soccer Score Record”technical support
+“Lehe Soccer Score Record” is a special service software for football fans. Users can add matches to this software, record basic information of teams and scores of matches, and save records. Users can also plan the formation of the competition in the“Lehe Soccer Score Record”by drawing, save the planning map, and view it at any time. And we will also push the football skills related hot articles and football match related hot information, improve the user experience, users can also collect favorite articles to read repeatedly, convenient and fast…For any comments and suggestions, please contact us:“Lehe Soccer Score Record” official email:renaissantktkf@hotmail.com
